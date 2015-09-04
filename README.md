@@ -1,6 +1,3 @@
-# Open Month Rails
+#Initial Program - Start
 
-This is the pinteresting sample application for 
-{*Open Month Rails*} (http://onemonthrails.com)
-
-By me
+Creating a board style meta layer to educational systems. See more at [*Broken Ideas*](brokenideas.wordpress.com)
